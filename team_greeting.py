@@ -1,9 +1,13 @@
-Chloe
+#Chloe
 print("Hello team!")
 #team greeting
 print("!!!")
 
-DiJonai
+#DiJonai
 print("Hola team!)
 #team greeting
 print("Hola team!)
+
+#Lauren
+print("Bonjour team!)
+
