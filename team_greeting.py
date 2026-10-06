@@ -2,3 +2,4 @@
 print("Hello, cruel, cruel world :(")
 #prints what Chofi says when he wakes up.
 print("Wisdom the Albatross, the oldest known wild bird, is at least 75 years old")
+#forgot to add commit message
