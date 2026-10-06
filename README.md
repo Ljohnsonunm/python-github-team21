@@ -5,6 +5,9 @@ Hello, Mwachofi waNgure contributed to this project with a fun bird fact.
 #=======
 #Lauren
 print(Bonjour team!)
+#DiJonai
+print("Hola team!)
+#team greeting
 
 #Chloe
 print("READ THIS FILE")
