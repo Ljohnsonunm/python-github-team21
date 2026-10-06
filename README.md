@@ -1,2 +1,10 @@
 # python-github-team
-Add a greeting statement. 
+# <<<<<< Ljohnsonunm-patch-2
+#Add a greeting statement. 
+#=======
+#Lauren
+print(Bonjour team!)
+
+#Chloe
+print("READ THIS FILE")
+#>>>>>>> main
